@@ -76,8 +76,8 @@ python test_ml_algorithm.py
 ### 6. Testing.csv
 - it contains the dataset I used to test the machine learning models.
 
-### 7. model.pkl files
-These pkl files contain the five trained machine learning models which I created using the joblib library. They are:
+### 7. saved_models
+This folder contains five pkl files that are the five trained machine learning models which I created using the joblib library. They are:
 
     i. svm_model.pkl
     ii. naive_bayes_model.pkl
